@@ -1,4 +1,4 @@
-### `welcome to my first README as a test for a school program im developing at`
+### `welcome to my first README as a test for a school program i was at`
 
 currently in a decisive development along with JavaScript
 
